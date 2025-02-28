@@ -1,2 +1,0 @@
-# colorwheell
-Created with CodeSandbox
